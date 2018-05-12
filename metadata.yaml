@@ -1,0 +1,33 @@
+_repo: Sketches-From-My-LifeBy-The-Late-Admiral-Hobart-Pasha_16296
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hobart-Hampden, Augustus Charles
+    aliases:
+    - Roberts, Captain
+    - Hobart Pasha
+    birthdate: 1822
+    deathdate: 1886
+    gutenberg_agent_id: '6603'
+    url: http://www.gutenberg.org/2009/agents/6603
+    wikipedia: http://en.wikipedia.org/wiki/Augustus_Charles_Hobart-Hampden
+description: ''
+gutenberg_issued: '2005-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16296'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'Adventure and adventurers'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Blockades'
+title: 'Sketches From My Life
+
+  By The Late Admiral Hobart Pasha'
+url: http://www.gutenberg.org/ebooks/16296
